@@ -6,10 +6,15 @@ This simple mini project called Ordering Snack, provides two options to order, w
     2. Implemented by Code Blocks
 
 ## The idea of the project:
-    First of all It uppers 3 options for 1. Customer Section, for 2. About The Project and 3. Exit, Then if we press 1 for Customer Section then we will have three options, the first one for order then for view order and lastly Back to the main menu if we enter order then there are also options one for fries and one for a burger and lastly for back to the main menu and then when you order you can order again or get your total and then you entered your personal details..
+It has 3 options 
+1. Customer option.
+2. About The Project 
+3. Exit
+There are three options, for option 1. for order, view order, and Back to the main menu.
+There are three options, for option 2. You can order fries or/and a burger, order again, or get your total price. then you need to enter your data.
 
-## pref
-    At the beginning of the code, we provided 4 different headers to give access to a variety of built-in functions like printf(), malloc(), getch(), and sleep(), to simplify common programming task
+## Brief
+At the beginning of the code, we provided 4 different headers to give access to a variety of built-in functions like printf(), malloc(), getch(), and sleep(), to simplify common programming task
 
 ![Screenshot 2024-06-12 173454](https://github.com/sebawael1/ordering-system/assets/97540803/f4a12b57-0681-4793-b864-91c052dd8697)
 
