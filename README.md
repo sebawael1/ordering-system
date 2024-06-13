@@ -10,6 +10,7 @@ It has 3 options
 1. Customer option.
 2. About The Project 
 3. Exit
+
 There are three options, for option 1. for order, view order, and Back to the main menu.
 There are three options, for option 2. You can order fries or/and a burger, order again, or get your total price. then you need to enter your data.
 
