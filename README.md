@@ -1,5 +1,5 @@
 ## Welcome to my mini project!
-    This simple mini project called Ordering Snack, provides two options to order, written in C Programming Language it's a perfect project for implementing simple idea with C I hope you get an ideal order :)
+This simple mini project called Ordering Snack, provides two options to order, written in C Programming Language it's a perfect project for implementing simple idea with C I hope you get an ideal order :)
 
 ## Tools:
     1. C
