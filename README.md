@@ -23,7 +23,7 @@ There are three options, for option 2. You can order fries or/and a burger, orde
 # *The five functions explanation
 
 
-    --1. The first function is called mainmenu this function is responsible for displaying the menu and then getting from the user which option they choose and based on their choices             there's an if statement, 
+    --1. The first function is called mainmenu this function is responsible for displaying the menu and then getting from the user which option they choose and based on their choices              there's an if statement, 
 
         if the user selects 1 then the Customer() function is called,        
         if the user selects 2, the aboutproject() function well called which likely displays information about the project 
