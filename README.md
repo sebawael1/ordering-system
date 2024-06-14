@@ -15,7 +15,8 @@ There are three options, for option 1. for order, view order, and Back to the ma
 There are three options, for option 2. You can order fries or/and a burger, order again, or get your total price. then you need to enter your data.
 
 ## Explaining the code
-    At the beginning of the code, we provided 4 different (headers) once you add the headers file to your program you can use all the functions including scanf(), printf(), and others as     well
+    At the beginning of the code, we provided 4 different (headers) once you add the headers file to your program you can use all the functions including scanf(), printf(), 
+    and others as well
 
 
 ![Screenshot 2024-06-12 173454](https://github.com/sebawael1/ordering-system/assets/97540803/f4a12b57-0681-4793-b864-91c052dd8697)
