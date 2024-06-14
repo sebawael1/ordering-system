@@ -38,7 +38,7 @@ Then we have 5 different functions:
 
     --4. The fourth function is straightforward it collects personal information from the users that contains their first names, second names, phone numbers
     
-    -5. this last function is about the project.st function is that if the user enters 1 then the second function will work and ask the user to order to view the order or to go to the main menu.
+    --5. The fifth function is called aboutprojet() this function provides a brief description of the project, After displaying the message it waits for the user to enter any key to               return them to the main menu 
 
 
     
