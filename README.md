@@ -15,20 +15,29 @@ There are three options, for option 1. for order, view order, and Back to the ma
 There are three options, for option 2. You can order fries or/and a burger, order again, or get your total price. then you need to enter your data.
 
 ## Brief
-At the beginning of the code, we provided 4 different headers to give access to a variety of built-in functions like printf(), malloc(), getch(), and sleep(), to simplify common programming task
+At the beginning of the code, we provided 4 different (headers) once you add the headers file to your program you can use all the functions including scanf(), printf(), and others as well
+
 
 ![Screenshot 2024-06-12 173454](https://github.com/sebawael1/ordering-system/assets/97540803/f4a12b57-0681-4793-b864-91c052dd8697)
 
 Then we have 5 different functions:
 
-    --1. The first function is this function called mainmenu, which guides the user to three different choices and each choice has an order for example if the user chooses 1 then the second function is customer();
+    --1. The first function is called mainmenu this function is responsible for displaying the menu and then getting from the user which option they choose and based on their choices             there's an if statement, 
 
-    --2. the second function is related to the first function is that if the user enters 1 then the second function will work and ask the user to order to view the order or to go to the main menu.
+        if the user selects 1 then the Customer() function is called,        
+        if the user selects 2, the aboutproject() function well called which likely displays information about the project 
+        lastly, if the user selects 3 then the screen will be clear again and a thank message will display and exit the program
 
-    --3. and then the third function responsible for your order 1. Fries or 2. Burger or 3. to go to the main menu and when you order it's responsible for whatever quantity you want to order and lastly it calculates your total
+    --2. The second function is called customer(); this function provides ording snacks it lets the users 
+        1. order snacks,
+        2. view their orders, 
+        3. or return to the main menu, 
+        it also includes the loading process
 
-    --4. include your personal information including first name, second name, and phone number
+    --3. The third function is called osanck(); this function handles the snack ordering process it displays the snack menu, lets the user input their order, and then calculates the               total price, it's also provides for you to order again or to get your total price
 
+    --4. The fourth function is straightforward it collects personal information from the users that contains their first names, second names, phone numbers
+    
     -5. this last function is about the project.st function is that if the user enters 1 then the second function will work and ask the user to order to view the order or to go to the main menu.
 
 
