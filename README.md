@@ -20,7 +20,7 @@ There are three options, for option 2. You can order fries or/and a burger, orde
 
 ![Screenshot 2024-06-12 173454](https://github.com/sebawael1/ordering-system/assets/97540803/f4a12b57-0681-4793-b864-91c052dd8697)
 
-## The five functions explaining:
+     The five functions explaining:
 
     --1. The first function is called mainmenu this function is responsible for displaying the menu and then getting from the user which option they choose and based on their choices             there's an if statement, 
 
