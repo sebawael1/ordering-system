@@ -14,13 +14,13 @@ It has 3 options
 There are three options, for option 1. for order, view order, and Back to the main menu.
 There are three options, for option 2. You can order fries or/and a burger, order again, or get your total price. then you need to enter your data.
 
-## Brief
-At the beginning of the code, we provided 4 different (headers) once you add the headers file to your program you can use all the functions including scanf(), printf(), and others as well
+## Explaining the code
+    At the beginning of the code, we provided 4 different (headers) once you add the headers file to your program you can use all the functions including scanf(), printf(), and others as     well
 
 
 ![Screenshot 2024-06-12 173454](https://github.com/sebawael1/ordering-system/assets/97540803/f4a12b57-0681-4793-b864-91c052dd8697)
 
-Then we have 5 different functions:
+##Then we have 5 different functions:
 
     --1. The first function is called mainmenu this function is responsible for displaying the menu and then getting from the user which option they choose and based on their choices             there's an if statement, 
 
